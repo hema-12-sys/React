@@ -1,0 +1,81 @@
+.App {
+  background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230717/pngtree-purple-travel-essentials-3d-render-of-mobile-phone-boarding-pass-suitcase-image_3897733.jpg');
+  background-size: cover;
+  height: 100vh;
+  display: flex;  
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+  margin: auto;
+  padding: 20px;
+  font-size: 30px;
+  font-family:cursive;
+}
+
+.login-container {
+  margin-left: 380px;
+  background-color: rgba(56, 14, 63, 0.5);
+  padding: 80px;
+  
+  width: 500px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.login-container input{
+  width: 100%;
+  padding: 20px;
+  
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 4px;
+  border-bottom: 1px solid #ccc;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.login-container button {
+  width: 500px;
+  margin-left: 18px;
+  padding: 20px;
+  border-radius: 0px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.login-container button:hover {
+  background-color: #0056b3;
+  opacity: 1.7;
+  box-shadow: 2px 3px white;
+}
+
+
+.App h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ccc;
+}
+.link{
+  float: right;
+  text-decoration: none;
+  color :black;
+  text-align: center;
+  font-size: large;
+}
+.link2{
+  text-decoration: underline;
+  color:black;
+  
+  
+}
+.para{
+  text-align: center;
+}
